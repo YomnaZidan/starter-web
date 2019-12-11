@@ -1,3 +1,5 @@
+Stashing Modification 1
+
 Doing some changes in Local 
 
 Rebase Conflict Modification 4 on master branch
