@@ -1,3 +1,5 @@
+Stash Modification 1 on Master Branch
+
 Reabse Remote Repo Modification 1
 
 Rebase Modification 2
