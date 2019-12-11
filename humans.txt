@@ -2,6 +2,9 @@ Rebase Conflict Modification 4 on master branch
 
 Rebase Modification2
 
+Rebase Conflict Modification 3
+
+
 Rebase Modification 1
 
 <<<<<<< HEAD
